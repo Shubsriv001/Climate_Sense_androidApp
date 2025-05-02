@@ -47,6 +47,7 @@ Climate Sense is a weather and climate-focused Android app that provides real-ti
 
 <p align="center">
   <img src="https://github.com/Shubsriv001/Climate_Sense_androidApp/blob/main/Homepage.jpg" width="200"/>
+  <img src="https://github.com/Shubsriv001/Climate_Sense_androidApp/blob/main/Drawer_Navigation.jpg" width="200"/>
   <img src="https://github.com/Shubsriv001/Climate_Sense_androidApp/blob/main/Suggestion.jpg" width="200"/>
   <img src="https://github.com/Shubsriv001/Climate_Sense_androidApp/blob/main/Weather_details.jpg" width="200"/>
 </p>
